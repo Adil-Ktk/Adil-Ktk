@@ -1,5 +1,5 @@
 <div align="center">
-<img src="aizen wallpaper pc.png" width="140" style="border-radius:50%;"/>
+<img src="aizen wallpaper pc.png" width="440" style="border-radius:50%;"/>
 
 # Hi 👋, I'm Adil Khattak
 ### Software Engineering Student · he/him
