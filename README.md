@@ -1,13 +1,10 @@
 <div align="center">
-<img src="aizen wallpaper pc.png" width="100%" height="470px"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,50:0f2027,100:1a1a2e&height=220&section=header&text=Adil%20Khattak&fontSize=42&fontColor=FF6B35&fontAlignY=45&desc=Software%20Engineering%20Student&descAlignY=62&descSize=18&descColor=4FC3F7&animation=fadeIn"/>
 </div>
 
 <div align="center">
 
-# Hi 👋, I'm Adil Khattak
-### Software Engineering Student · he/him
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=560&lines=Every+Error+is+part+of+my+Code;Building+scalable+web+%26+mobile+apps;Currently+leveling+up+with+Django" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&width=560&lines=Every+Error+is+part+of+my+Code;Building+scalable+web+%26+mobile+apps;Currently+leveling+up+with+Django" alt="Typing SVG" />
 
 </div>
 
@@ -25,7 +22,7 @@ I'm a Software Engineering student who enjoys turning ideas into working softwar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adilktk/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadilyasadil15@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-14B8A6?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-azure-kappa-jp50ub9psl.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-azure-kappa-jp50ub9psl.vercel.app/)
 
 </div>
 
@@ -75,11 +72,11 @@ I'm a Software Engineering student who enjoys turning ideas into working softwar
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Adil-Ktk&show_icons=true&hide_border=true&theme=tokyonight&hide=stars,prs,issues,contribs" width="480"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Adil-Ktk&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=4FC3F7&text_color=FFFFFF&hide=stars,prs,issues,contribs" width="480"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=Adil-Ktk&theme=tokyonight&hide_border=true" width="480"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=Adil-Ktk&hide_border=true&background=0D1117&ring=FF6B35&fire=4FC3F7&currStreakLabel=FFFFFF" width="480"/>
 
 </div>
 
@@ -116,10 +113,33 @@ I'm a Software Engineering student who enjoys turning ideas into working softwar
 
 ---
 
+### ⚔️ Beyond Code
+
 <div align="center">
 
-🎬 **Favorite anime:** Bleach
+<table>
+  <tr>
+    <td align="center" width="25%">
+      🎬<br/><b>Anime</b><br/>Bleach fan
+    </td>
+    <td align="center" width="25%">
+      🎨<br/><b>AI Art</b><br/>Anime-style wallpapers
+    </td>
+    <td align="center" width="25%">
+      📱<br/><b>Mobile Dev</b><br/>Flutter tinkering
+    </td>
+    <td align="center" width="25%">
+      🧠<br/><b>Learning</b><br/>OS & assembly internals
+    </td>
+  </tr>
+</table>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adil-Ktk&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adil-Ktk&bg_color=0D1117&color=4FC3F7&line=FF6B35&point=FFFFFF&hide_border=true&area=true" width="100%"/>
 
 </div>
