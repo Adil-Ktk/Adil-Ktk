@@ -1,5 +1,5 @@
 <div align="center">
-<img src="aizen wallpaper pc.png" width="100%"/>
+<img src="aizen wallpaper pc.png" width="100%" height="470px"/>
 </div>
 
 <div align="center">
@@ -79,7 +79,7 @@ I'm a Software Engineering student who enjoys turning ideas into working softwar
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Adil-Ktk&theme=tokyonight&hide_border=true" width="480"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=Adil-Ktk&theme=tokyonight&hide_border=true" width="480"/>
 
 </div>
 
@@ -118,7 +118,7 @@ I'm a Software Engineering student who enjoys turning ideas into working softwar
 
 <div align="center">
 
-🎬 **Scatter Kyoka suigetsu** 
+🎬 **Favorite anime:** Bleach
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adil-Ktk&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
