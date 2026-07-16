@@ -1,5 +1,5 @@
 <div align="center">
-<img src="aizen wallpaper pc.png" width="440" style="border-radius:50%;"/>
+<img src="aizen wallpaper pc.png" width="540" style="border-radius:50%;"/>
 
 # Hi 👋, I'm Adil Khattak
 ### Software Engineering Student · he/him
@@ -76,7 +76,7 @@ I'm a Software Engineering student who enjoys turning ideas into working softwar
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Adil-Ktk&theme=tokyonight&hide_border=true" width="480"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Adil-Ktk&theme=tokyonight&hide_border=true" width="480"/>
 
 </div>
 
@@ -84,16 +84,22 @@ I'm a Software Engineering student who enjoys turning ideas into working softwar
 
 ### 🏯 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/Adil-Ktk/gympass-portal">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adil-Ktk&repo=gympass-portal&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Adil-Ktk/PORTFOLIO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adil-Ktk&repo=PORTFOLIO&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
+<table>
+  <tr>
+    <td width="50%">
+      <h4><a href="https://github.com/Adil-Ktk/gympass-portal">🏋️ gympass-portal</a></h4>
+      GymPass Portal — Multi Gym Membership System.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Blade-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+    </td>
+    <td width="50%">
+      <h4><a href="https://github.com/Adil-Ktk/PORTFOLIO">💼 PORTFOLIO</a></h4>
+      Personal portfolio website showcasing my skills, projects, and internship experience.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
