@@ -1,0 +1,37 @@
+<svg width="115" height="54" viewBox="0 0 115 54" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="energy" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#FF6B6B">
+      <animate attributeName="stop-color" values="#FF6B6B;#EC4899;#EC4899;#FF6B6B" dur="4s" repeatCount="indefinite"/>
+    </stop>
+    <stop offset="50%" stop-color="#EC4899">
+      <animate attributeName="stop-color" values="#EC4899;#EC4899;#FF6B6B;#EC4899" dur="4s" repeatCount="indefinite"/>
+    </stop>
+    <stop offset="100%" stop-color="#EC4899">
+      <animate attributeName="stop-color" values="#EC4899;#FF6B6B;#EC4899;#EC4899" dur="4s" repeatCount="indefinite"/>
+    </stop>
+  </linearGradient>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="3" result="blur"/>
+    <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+</defs>
+
+<rect x="3" y="3" width="109" height="48" rx="13"
+      fill="none" stroke="url(#energy)" stroke-width="3" opacity=".28" filter="url(#glow)">
+  <animate attributeName="opacity" values=".18;.8;.18" dur="2.8s" repeatCount="indefinite"/>
+</rect>
+
+<rect x="4" y="4" width="107" height="46" rx="11"
+      fill="#06060A" stroke="url(#energy)" stroke-width="1.5"/>
+
+<rect x="7" y="7" width="101" height="40" rx="9"
+      fill="none" stroke="#FF6B6B" stroke-width="1" stroke-dasharray="24 150" opacity=".8">
+  <animate attributeName="stroke-dashoffset" from="0" to="-174" dur="2s" repeatCount="indefinite"/>
+</rect>
+
+
+<text x="57.5" y="32.0" text-anchor="middle"
+      font-family="monospace" font-size="12" font-weight="bold"
+      letter-spacing="1.4" fill="#F8FAFC">GIT</text>
+</svg>
