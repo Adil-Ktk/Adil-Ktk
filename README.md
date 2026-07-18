@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGxrOHczOXE2ZHY3MXN4OWZlcm5qdjVoNGU3cngwYXptNTl6am5mZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Coding Animation"/>
+<img src="./assets/aizen-code.png" alt="Coding Animation"/>
 
 <br/><br/>
 
