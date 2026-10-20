@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="./assets/aizen-code.png" alt="Coding Animation"/>
+<img src="./assets/Aizen 4.png" alt="Coding Animation"/>
 
 <br/><br/>
 
